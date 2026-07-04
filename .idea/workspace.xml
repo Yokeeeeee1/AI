@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2307a35c-34ed-4a07-b3d0-3ff9bf2a0bb0" name="Changes" comment="列表">
-      <change afterPath="$PROJECT_DIR$/python基础/序列类型/3.元组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/容器/4.字典.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/序列类型/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/序列类型/2.列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python基础/序列类型/1.序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/容器/序列类型/1.序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python基础/序列类型/2.列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/容器/序列类型/2.列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python基础/序列类型/3.元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/容器/序列类型/3.元组.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
     "Python.2.变量.executor": "Run",
     "Python.3-1.数字.executor": "Run",
     "Python.3-2 bool.executor": "Run",
+    "Python.4.字典.executor": "Run",
     "Python.4.字符串.executor": "Run",
     "Python.元组.executor": "Run",
     "Python.列表.executor": "Run",
@@ -81,10 +84,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\develop\code\Ai学习\python基础\容器" />
       <recent name="E:\develop\code\Ai学习\python基础\基本数据类型" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3.元组">
+  <component name="RunManager" selected="Python.4.字典">
     <configuration name="1.序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ai学习" />
       <option name="ENV_FILES" value="" />
@@ -127,31 +131,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="E:\develop\code\Ai学习\python基础\序列类型\2.列表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3-2 bool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ai学习" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="E:\develop\code\Ai学习\python基础\基本数据类型\3-2 bool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,13 +189,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ai学习" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/容器/4.字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.字典" />
         <item itemvalue="Python.3.元组" />
         <item itemvalue="Python.2.列表" />
         <item itemvalue="Python.1.序列" />
         <item itemvalue="Python.4.字符串" />
-        <item itemvalue="Python.3-2 bool" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +241,7 @@
       <workItem from="1782992686569" duration="1327000" />
       <workItem from="1782994438596" duration="1374000" />
       <workItem from="1782998695503" duration="10909000" />
-      <workItem from="1783129610039" duration="4691000" />
+      <workItem from="1783129610039" duration="7948000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -279,7 +283,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783132706255</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="元组">
+      <option name="closed" value="true" />
+      <created>1783134385664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783134385664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="列表">
+      <option name="closed" value="true" />
+      <created>1783134394505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783134394505</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,14 +322,15 @@
     <MESSAGE value="Merge branch 'master'" />
     <MESSAGE value="2.变量" />
     <MESSAGE value="序列" />
+    <MESSAGE value="元组" />
     <MESSAGE value="列表" />
     <option name="LAST_COMMIT_MESSAGE" value="列表" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ai$3_1_.coverage" NAME="3-1.数字 Coverage Results" MODIFIED="1783051299617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
     <SUITE FILE_PATH="coverage/Ai$3_2_bool.coverage" NAME="3-2 bool Coverage Results" MODIFIED="1783052247706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
-    <SUITE FILE_PATH="coverage/Ai$4_.coverage" NAME="4.字符串 Coverage Results" MODIFIED="1783053743220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
     <SUITE FILE_PATH="coverage/Ai$.coverage" NAME="元组 Coverage Results" MODIFIED="1783133037950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/序列类型" />
+    <SUITE FILE_PATH="coverage/Ai$4_.coverage" NAME="4.字典 Coverage Results" MODIFIED="1783137408034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/容器" />
     <SUITE FILE_PATH="coverage/Ai$1_.coverage" NAME="1.序列 Coverage Results" MODIFIED="1783063868600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/序列类型" />
     <SUITE FILE_PATH="coverage/Ai$2_.coverage" NAME="2.变量 Coverage Results" MODIFIED="1782995669729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
   </component>
